@@ -1,4 +1,4 @@
-package org.example;
+package org.furlenco;
 
 public class FLACON_PACKAGE {
     String packageAddQuery;

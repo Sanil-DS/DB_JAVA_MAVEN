@@ -1,4 +1,4 @@
-package org.example;
+package org.furlenco;
 
 public class FALCON_SHIPMENT {
     String shipmentAddQuery;

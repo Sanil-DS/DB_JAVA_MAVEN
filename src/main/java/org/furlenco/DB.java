@@ -1,4 +1,4 @@
-package org.example;
+package org.furlenco;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
