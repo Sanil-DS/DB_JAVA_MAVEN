@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>org.example.DB-Shipment</artifactId>
+    <artifactId>DB-Shipment</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
