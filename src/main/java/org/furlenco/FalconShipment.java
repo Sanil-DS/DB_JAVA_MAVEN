@@ -1,9 +1,9 @@
 package org.furlenco;
 
-public class FALCON_SHIPMENT {
+public class FalconShipment {
     String shipmentAddQuery;
 
-    public FALCON_SHIPMENT(String displayid, String awb) {
+    public FalconShipment(String displayid, String awb) {
         shipmentAddQuery = "INSERT INTO falcon.shipments (fc_id, user_id, type, status, display_id, awb_number, selected_fulfilment_date, promise_date, service_time_in_minutes,\n" +
                 "                              created_at, updated_at, created_by, updated_by, shipment_group_id, champ_proof_of_fulfilment, is_priority, fixed_time_in_minutes,\n" +
                 "                              vertical, product_name, client_claimed_state)\n" +
